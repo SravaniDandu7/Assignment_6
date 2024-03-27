@@ -4,7 +4,7 @@ public class CalculateExpenses {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Input quantity and price per item
+        
         System.out.print("Enter the quantity purchased: ");
         int quantity = scanner.nextInt();
         System.out.print("Enter the price per item: ");
